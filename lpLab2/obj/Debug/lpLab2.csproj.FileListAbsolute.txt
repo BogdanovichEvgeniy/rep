@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\bin\Debug\lpLab2.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\bin\Debug\lpLab2.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\bin\Debug\lpLab2.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\obj\Debug\lpLab2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\obj\Debug\lpLab2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\obj\Debug\lpLab2.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\obj\Debug\lpLab2.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\lpLab2\lpLab2\bin\Debug\System.ValueTuple.xml
